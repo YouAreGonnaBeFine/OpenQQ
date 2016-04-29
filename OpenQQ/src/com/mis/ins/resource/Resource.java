@@ -19,6 +19,7 @@ public class Resource {
 		lisPresenter.add(new Presenter("D", "208114", "狗贼"));
 		lisPresenter.add(new Presenter("D", "57321", "bill"));
 		lisPresenter.add(new Presenter("D", "319598", "Burning"));
+		lisPresenter.add(new Presenter("D", "96291", "东北大鹌鹑 "));
 
 
 		return lisPresenter;
