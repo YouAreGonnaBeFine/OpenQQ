@@ -70,7 +70,7 @@ public class OpenQQClient implements Closeable {
                         }
                         try {
                             pollMessage(callback);
-                        } catch (RequestException ignore) {}
+                        } catch (Throwable ignore) {}
                     }
                 }
             }).start();
