@@ -12,7 +12,6 @@ import com.mis.qq.model.*;
 import net.dongliu.requests.Client;
 import net.dongliu.requests.Response;
 import net.dongliu.requests.Session;
-import net.dongliu.requests.exception.RequestException;
 
 import org.apache.log4j.Logger;
 
